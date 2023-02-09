@@ -79,8 +79,5 @@ int main()
 	{
 		putchar(ch);
 	}
-
-	//git try
-	//1
    return 0;
 }
