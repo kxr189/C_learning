@@ -1,4 +1,1 @@
-learn C
-auther:kxr
-NEW
-kxr kxr
+此文件为C语言学习记录
